@@ -30,7 +30,7 @@ export default function Home() {
       <header className="fixed top-0 left-0 right-0 bg-gray-800 py-2">
         {/* Title of the web, make bolder */}
         <div className="bg-gray-700 rounded-lg p-4 max-w-2xl mx-auto flex justify-between items-center">
-          <div className="font-bold text-md">NextJS PWA</div>
+          <div className="font-bold text-md">PWA NextJS</div>
           {/* Display flex */}
           <ul className="flex space-x-4 gap-4 px-4">
             <li>

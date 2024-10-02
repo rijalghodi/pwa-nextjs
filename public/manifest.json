@@ -1,39 +1,39 @@
 {
   "name": "PWA Next.js",
   "short_name": "pwa-nextjs",
-  "theme_color": "#35155D",
-  "background_color": "#ffffff",
+  "theme_color": "#1f2937",
+  "background_color": "#1f2937",
   "display": "standalone",
   "orientation": "portrait",
   "scope": "/",
   "start_url": "/",
   "icons": [
     {
-      "src": "icons/16x16.png",
+      "src": "/icons/16x16.png",
       "sizes": "16x16",
       "type": "image/png",
-      "purpose": "maskable any"
+      "purpose": "any"
     },
     {
-      "src": "icons/32x32.png",
+      "src": "/icons/32x32.png",
       "sizes": "32x32",
       "type": "image/png",
-      "purpose": "maskable any"
+      "purpose": "any"
     },
     {
-      "src": "icons/128x128.png",
+      "src": "/icons/128x128.png",
       "sizes": "128x128",
       "type": "image/png",
-      "purpose": "maskable any"
+      "purpose": "any"
     },
     {
-      "src": "icons/192x192.png",
+      "src": "/icons/192x192.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "maskable any"
+      "purpose": "any"
     },
     {
-      "src": "icons/512x512.png",
+      "src": "/icons/512x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable any"
